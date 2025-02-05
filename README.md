@@ -1,0 +1,2 @@
+# -lkders1
+AdobeÇalışması
